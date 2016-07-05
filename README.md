@@ -227,11 +227,11 @@ function onCompletion(json){
 
 ## Lab work
 
-[Giffaw lab](https://github.com/sf-wdi-27-28/giffaw)
+[Giffaw lab](https://github.com/sf-wdi-30/giffaw)
 
-For a solution, checkout the `solution` branch or find it [here on GitHub](https://github.com/sf-wdi-27-28/giffaw/tree/solution).
+For a solution, checkout the `solution` branch or find it [here on GitHub](https://github.com/sf-wdi-30/giffaw/tree/solution).
 
-For a solution to the bonus checkout the `solution-more` branch or find it here on [GitHub](https://github.com/sf-wdi-27-28/giffaw/tree/solution-more).
+For a solution to the bonus checkout the `solution-more` branch or find it here on [GitHub](https://github.com/sf-wdi-30/giffaw/tree/solution-more).
 
 ## Further Reading
 
